@@ -42,6 +42,7 @@ class StudyApplicationTests {
     void update_test() {
         var player = playerRepository.findById(1L).get();
         player.setBackNumber(222);
+//        aaaa
     }
 
     @Test
