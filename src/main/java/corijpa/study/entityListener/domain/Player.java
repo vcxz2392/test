@@ -19,7 +19,7 @@ public class Player {
 
     private Integer backNumber;
 
-    private String aa;
+    private String aaa;
 
 //    @PrePersist
 //    public void prePersist() {System.out.println("============= prePersist =============");}
