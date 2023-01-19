@@ -49,6 +49,7 @@ class StudyApplicationTests {
     void remove_test() {
         var player = playerRepository.findById(1L).get();
         playerRepository.delete(player);
+        //bbbbbb
     }
 
 }
