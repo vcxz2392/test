@@ -1,0 +1,11 @@
+enable:
+  issues: false
+  prs: true
+
+comments:
+  prs: test
+
+labels:
+  'documentation':
+    include:
+      - '\bdocs\b'
